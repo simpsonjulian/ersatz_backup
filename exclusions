@@ -1,0 +1,21 @@
+Applications
+Desktop
+Downloads
+Google Drive File Stream
+Library
+Movies
+Music
+Pictures
+VirtualBox VMs
+.gem
+.m2
+.pip
+.packer.d
+.composer
+.phantomjs
+.rbenv
+workspace
+gamcache
+.bundler
+.npm
+.local
